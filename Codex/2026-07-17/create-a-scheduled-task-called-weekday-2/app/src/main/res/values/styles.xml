@@ -1,1 +1,0 @@
-<resources><style name="Theme.RemindCare" parent="android:style/Theme.Material.Light.NoActionBar"><item name="android:fontFamily">sans</item><item name="android:colorAccent">#1769AA</item><item name="android:navigationBarColor">#FFFFFF</item></style></resources>

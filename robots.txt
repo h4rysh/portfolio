@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://h4rysh.github.io/portfolio/sitemap.xml
